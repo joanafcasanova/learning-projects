@@ -17,4 +17,3 @@ Data science projects intended to practice: Propensity models, recommendation sy
 - Airplane data queries SQL
 - Simpsons Characters data model: Create a data model and populate tables with sample data
 - NoSQL queries on MariaDB
-- 

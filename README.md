@@ -16,3 +16,5 @@ Data science projects intended to practice: Propensity models, recommendation sy
 - NYP Dashboard (Looker Studio) - The integration of demographics, data on the most prevalent crimes, crime location information, and temporal arrest data forms a critical foundation for the New York Police Department (NYPD). Demographics provide insights into community-specific challenges, allowing tailored crime prevention strategies to address socio-economic factors and cultural nuances.
 - Airplane data queries SQL
 - Simpsons Characters data model: Create a data model and populate tables with sample data
+- NoSQL queries on MariaDB
+- 

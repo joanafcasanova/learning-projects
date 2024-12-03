@@ -14,4 +14,4 @@ Data science projects intended to practice: Propensity models, recommendation sy
 - Cryptocurrency trading analysis in Binance - Big Data project using NiFi (Ingestion), HDFS (Storage) and Spark (Processing) (FP Potential)
 - Houses for rent in madrid price estimation using a Liner Regression Model: Estimate the rental price and find good opportunities in the market looking for flats that may be under their theoretical price (FP)
 - Traveling agency customer's segmentation for marketing optimization: Segmentation analysis using Dataiku to provide XYZ travel agency with a comprehensive in-depth analysis of its customers' traveling choices to get insights for the optimization of XYZ’s marketing strategies (FP)
-- 
+- Default of Credit Card Clients Dataset: Predicting whether a client will default on their credit card payments, using XGBoost and Random Forest algorithms. Data from: https://huggingface.co/datasets/imodels/credit-card

@@ -13,7 +13,7 @@ Data science projects intended to practice: Propensity models, recommendation sy
 - Default of Credit Card Clients Dataset: Predicting whether a client will default on their credit card payments, using XGBoost and Random Forest algorithms. Data from: https://huggingface.co/datasets/imodels/credit-card
 - Diabetes prediction using decision trees - The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset
 - Uber Eats dashboard: Tableau dashboard to visualize key business metrics related to partner restaurants achievements
-- NYP Dashboard (Looker Studio) - The integration of demographics, data on the most prevalent crimes, crime location information, and temporal arrest data forms a critical foundation for the New York Police Department (NYPD). Demographics provide insights into community-specific challenges, allowing tailored crime prevention strategies to address socio-economic factors and cultural nuances.
+- NYPD Dashboard (Looker Studio) - The integration of demographics, data on the most prevalent crimes, crime location information, and temporal arrest data forms a critical foundation for the New York Police Department (NYPD). Demographics provide insights into community-specific challenges, allowing tailored crime prevention strategies to address socio-economic factors and cultural nuances.
 - Airplane data queries SQL
 - Simpsons Characters data model: Create a data model and populate tables with sample data
 - NoSQL queries on MariaDB

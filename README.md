@@ -1,4 +1,4 @@
-# learning-projects
+# projects
 Data science projects intended to practice: Propensity models, recommendation systems, neural networks for face and image detection, etc
 
 - CRM Banking propensity model: Identify customers (SMEs) with highest propensity to sign-up for a POS with our bank
